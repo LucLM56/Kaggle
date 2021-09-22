@@ -1,4 +1,4 @@
-#Compétition Kaggle 
+# Compétition Kaggle 
 
 Composition de l'équipe : Luc Le Mée et Antoine Petiteau
 
